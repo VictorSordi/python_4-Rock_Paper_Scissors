@@ -89,3 +89,6 @@ elif (player == "scissors" and computer == rock):
     print("player = " + str(player))
     print(scissors)
     print("Computer Wins")
+
+else:
+    print("Choose a valid alternative: rock, paper, scissors")
